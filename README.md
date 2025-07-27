@@ -1,13 +1,8 @@
 
 # Yo! 🖖 I'm Erick Pereira 🍐👨🏾‍💻
 
-<p align="center">
-  <a href="https://github.com/Ericksonxd165">
-    <img src="https://skillicons.dev/icons?i=react,js,python,django,postgres,git,tailwind,vite,docker,html,express,css,nodejs,threejs,mysql" />
-  </a>
-</p>
+<h1>I am a computer engineer with one year of experience in software development. I am passionate about creating web and native mobile applications, and I am always looking to learn new technologies and improve my skills.</h1>
 
-I am a computer engineer with one year of experience in software development. I am passionate about creating web and native mobile applications, and I am always looking to learn new technologies and improve my skills.
 
 ## 👨‍💻 About Me
 
