@@ -142,7 +142,3 @@ I am currently looking for new job opportunities. If you have a project where yo
   </a>
 </p>
 
-```bash
-
-npm Contact Me!
-```
