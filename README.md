@@ -1,7 +1,7 @@
 
 # Yo! 🖖 I'm Erick Pereira 🍐👨🏾‍💻
 
-<h1>I am a computer engineer with one year of experience in software development. I am passionate about creating web and native mobile applications, and I am always looking to learn new technologies and improve my skills.</h1>
+<h2>I am a computer engineer with one year of experience in software development. I am passionate about creating web and native mobile applications, and I am always looking to learn new technologies and improve my skills.</h2>
 
 
 ## 👨‍💻 About Me
