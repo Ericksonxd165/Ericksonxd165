@@ -1,5 +1,5 @@
 
-# Hi! 👋 I'm Erick Pereira
+# Yo! 🖖 I'm Erick Pereira 🍐👨🏾‍💻
 
 <p align="center">
   <a href="https://github.com/Ericksonxd165">
