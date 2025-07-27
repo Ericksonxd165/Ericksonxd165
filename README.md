@@ -15,7 +15,7 @@ I am a computer engineer with one year of experience in software development. I 
 - 🌱 I’m always willing to learn more and collaborate on interesting projects.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about web development, 3D, and anything else I can help with.
-- 📫 How to reach me: [pereiraerick165@gmail.com](mailto:pereiraerick165@gmail.com)
+- 📫 How to reach me: [erick.pereira6677@gmail.com](mailto:erick.pereira6677@gmail.com)
 - 😄 Fun fact: I love 3D modeling!
 
 ## 🛠️ Technologies and Tools
@@ -141,3 +141,8 @@ I am currently looking for new job opportunities. If you have a project where yo
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
+
+```bash
+
+npm Contact Me!
+```
